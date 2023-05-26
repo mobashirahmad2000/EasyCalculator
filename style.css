@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+}
+.sl{
+    font size: 200%;
+    color: rgb(0, 76, 78);
+    background-color: aquamarine;
+    font-style: italic;
+    border-color: black;
+    text-align: center;
+    
+}
+p{
+    
+    font-size: 140%;
+    color: rgb(255, 254, 254);
+    text-align: center;
+
+    font-style: italic;
+    text color: ;
+}
+
+h2{
+    font-size: 150% ;
+    color: rgb(255, 255, 255);
+
+    font-style: italic;
+    border-color: rgb(192, 55, 255);
+    text-align: center ;
+}
+body{
+    background-color: rgb(34, 51, 58);
+
+
+}
+
+.bg{
+    background-color: rgb(121, 255, 210);
+}
+.txt{
+text-align: center;
+}
+
+.mg{
+    margin: auto;
+}
+
+.itm{
+    align-items: center;
+}
+
+.flx{
+    display: flex;
+}
+
+.flx-col{
+    flex-direction: column;
+}
+
+
